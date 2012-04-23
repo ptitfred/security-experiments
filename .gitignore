@@ -1,0 +1,23 @@
+# ignore generated files
+*.class
+classes/
+MANIFEST.MF
+
+# ignore Maven generated target folders
+target
+
+# ignore eclipse files
+.project
+.classpath
+.settings
+
+# ignore intelliJ files
+/.idea
+*.iws
+*.ipr
+*.iml
+*.ids
+
+# ignore misc generated files
+*.log
+
