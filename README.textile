@@ -1,0 +1,4 @@
+h1. Security Experiments
+
+This project is here to demonstrate some security functionalities in Java using Bouncy Castle provider (but via JCE APIs when possible).
+
