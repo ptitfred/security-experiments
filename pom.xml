@@ -4,11 +4,16 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.kercoin.tests</groupId>
-    <artifactId>encryption</artifactId>
+    <artifactId>security</artifactId>
     <version>1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>tests-encryption</name>
+    <name>Security tests</name>
+	<description>
+        This project is intended to POC security implementations.
+        This include symmetric ciphering, asymmetric authentication, key exchange, user credentials,
+        distributed authorization and authentication and so many other things.
+    </description>
 
     <properties>
         <!-- Common settings -->
